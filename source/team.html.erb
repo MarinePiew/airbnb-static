@@ -1,0 +1,23 @@
+  <h1 class="text-center">
+    Our team
+  </h1>
+
+  <% members = %w(Paul John Georges) %>
+
+  <div class="container text-center padded">
+    <ul class="list-inline">
+      <% members.each do |member| %>
+        <li>
+          <h3><%= member%></h3>
+          <img src="http://placehold.it/100x100" alt="" class="img-circle">
+        </li>
+      <% end %>
+    </ul>
+  </div>
+
+  <h3 class="text-center padded">
+    <a href="mailto:contact@airbnb.com">
+      <i class="fa fa-envelope"></i> contact@airbnb.com
+    </a>
+  </h3>
+</div>
