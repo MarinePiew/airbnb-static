@@ -1,0 +1,39 @@
+# data/flats.yml
+seb:
+  owner_name: Sebastien Saunier
+  picture: https://images.unsplash.com/photo-1414774689479-a02c432e9b55?dpr=1&auto=compress,format&fit=crop&w=767&h=575&q=80&cs=tinysrgb&crop=
+  owner_picture: ../images/seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  city: Paris, France
+  wifi: true
+  maximum number of guests: 4
+  flat's rating: 1
+  rooms's pictures: https://images.unsplash.com/photo-1424847262089-18a6858bd7e2?dpr=1&auto=compress,format&fit=crop&w=767&h=511&q=80&cs=tinysrgb&crop=
+
+romain:
+  owner_name: Romain Paillard
+  picture: https://images.unsplash.com/photo-1415757397015-0a3d16e6f195?dpr=1&auto=compress,format&fit=crop&w=767&h=431&q=80&cs=tinysrgb&crop=
+  owner_picture: ../images/romain.jpeg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  description:
+  city: London, UK
+  wifi: false
+  maximum number of guests: 4
+  flat's rating: 1
+  rooms's pictures: https://images.unsplash.com/photo-1429729274510-0ca5300305d3?dpr=1&auto=compress,format&fit=crop&w=767&h=575&q=80&cs=tinysrgb&crop=
+
+anne:
+  owner_name: Anne
+  picture: https://images.unsplash.com/43/L6sQn4GyQdSBW7pLgEz7_DSC_0013.JPG?dpr=1&auto=compress,format&fit=crop&w=767&h=515&q=80&cs=tinysrgb&crop=
+  owner_picture: ../images/anne.jpg
+  name: Anne's home
+  summary: Lovely house
+  description:
+  city: Brussels, Luxembourg
+  wifi: true
+  maximum number of guests: 4
+  flat's rating: 1
+  rooms's pictures: https://images.unsplash.com/photo-1444047427283-88a67f631b3e?dpr=1&auto=compress,format&fit=crop&w=767&h=511&q=80&cs=tinysrgb&crop=
